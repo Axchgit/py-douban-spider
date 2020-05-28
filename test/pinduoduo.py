@@ -1,9 +1,9 @@
 '''
-@Description: 
-@Author: Dragon
-@Email: 123@123.com
+@Description: 多多进宝测试
+@Author: Chenhao Xing
+@Email: axchtzon@gmail.com
 @Date: 2020-05-27 01:07:00
-@LastEditTime: 2020-05-28 08:51:24
+@LastEditTime: 2020-05-28 14:58:14
 @LastEditors: Dragon
 '''
 from bs4 import BeautifulSoup  # 网页解析·获取数据
